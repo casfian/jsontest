@@ -1,4 +1,5 @@
 {
+  "result" : {
   ["nama" : "Abu",
    "email": "abu@gmail.com",
    "photo": "images/abu.png"
@@ -11,4 +12,5 @@
    "email": "ahmad@gmail.com",
    "photo": "images/ahmad.png"
   ] 
+}
 }
