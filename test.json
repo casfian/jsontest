@@ -1,16 +1,19 @@
 {
-  "result" : {
-  ["nama" : "Abu",
-   "email": "abu@gmail.com",
-   "photo": "images/abu.png"
-  ],
-  ["nama" : "Ali",
-   "email": "ali@gmail.com",
-   "photo": "images/ali.png"
-  ],
-  ["nama" : "Ahmad",
-   "email": "ahmad@gmail.com",
-   "photo": "images/ahmad.png"
-  ] 
-}
+  "result" : [
+    { 
+      "nama" : "Abu",
+      "email": "abu@gmail.com",
+      "photo": "images/abu.png"
+    },
+    { 
+      "nama" : "Ali",
+      "email": "ali@gmail.com",
+      "photo": "images/ali.png"
+    },
+    { 
+      "nama" : "Ahmad",
+      "email": "ahmad@gmail.com",
+      "photo": "images/ahmad.png"
+    } 
+  ]
 }
