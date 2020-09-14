@@ -14,6 +14,11 @@
       "nama" : "Ahmad",
       "email": "ahmad@gmail.com",
       "photo": "images/ahmad.png"
+    },
+    { 
+      "nama" : "Betty",
+      "email": "betty@gmail.com",
+      "photo": "images/betty.png"
     } 
   ]
 }
